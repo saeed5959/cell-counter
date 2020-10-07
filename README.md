@@ -1,5 +1,5 @@
 # echocardiography-RF-to-B-mode-
-
+# This project has not been fineshed
 ## After acquiring RF signal from probes we must apply some processes to obtain a 2D image
 
 there are 4 steps :
@@ -29,8 +29,10 @@ there are 4 steps :
   <img src="4.PNG" width="650" height="400" border="20" title="blood cells">
  
  
- ### 2- choose a gfid mesh
+ ### 2- choose a grid mesh
 
+ 
+ 
  
  
  
@@ -38,6 +40,8 @@ there are 4 steps :
  
  ### 3- beamforming the I/Q signals
 
+ 
+ 
  
  
  
