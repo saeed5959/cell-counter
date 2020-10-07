@@ -1,5 +1,5 @@
 # echocardiography-RF-to-B-mode-
-# This project has not been fineshed
+# This project has not been finished
 ## After acquiring RF signal from probes we must apply some processes to obtain a 2D image
 
 there are 4 steps :
